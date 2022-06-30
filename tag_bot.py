@@ -3,7 +3,7 @@ from pyrogram import Client,filters,enums
 
 api_id = 15296051
 api_hash = "4c3e35efa89e4a71172e986f80f57c7b"
-token = " "
+token = "5571788483:AAEalFTGmnCqhIbZX__HQlI-xHdk5ObF7Qw"
 app = Client("tag", bot_token=token, api_id = api_id, api_hash = api_hash)
 
 async def is_Admin(chat,id):
